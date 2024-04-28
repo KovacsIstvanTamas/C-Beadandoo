@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Beadandó_AUYLIN_ConcurrentDictionary_CountdownEvent/1.0.0": {
+        "runtime": {
+          "Beadandó_AUYLIN_ConcurrentDictionary_CountdownEvent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Beadandó_AUYLIN_ConcurrentDictionary_CountdownEvent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
